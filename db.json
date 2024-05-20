@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "2e69",
+      "fname": "Tanu",
+      "lname": "ray",
+      "email": "tanu@gmail.com",
+      "password": "123456",
+      "cpassword": "123456"
+    },
+    {
+      "id": "8dbf",
+      "fname": "Tanu",
+      "lname": "ray",
+      "email": "tanu@gmail.com",
+      "password": "123456",
+      "cpassword": "123456"
+    },
+    {
+      "id": "2f35",
+      "fname": "Tanu",
+      "lname": "ray",
+      "email": "tanu@gmail.com",
+      "password": "123456",
+      "cpassword": "123456"
+    },
+    {
+      "id": "b8ec",
+      "fname": "Aadhya",
+      "lname": "Deshmukh",
+      "email": "aadhya@gmail.com",
+      "password": "A123456",
+      "cpassword": "A123456"
+    }
+  ]
+}
